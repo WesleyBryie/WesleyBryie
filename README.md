@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [wesbryie.cf](wesbryie.cf)
 
-- 📫 How to reach me **wesleybryie@protonmail.com**
+- 📫 How to reach me **dev@wesbryie.cf**
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleybryie&theme=monokai"/>
 
 <h3 align="left">Connect with me:</h3>
