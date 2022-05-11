@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wes Bryie</h1>
 <h3 align="center">A beginner developer from the U.S.</h3>
 
-- 🔭 I’m currently working on [personal-site](codeberg.org/wesleybryie/personal-site)
+- 🔭 I’m currently working on [Learning React](ISeeYouPeeking.com)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [wesbryie.cf](wesbryie.cf)
+- 👨‍💻 All of my projects are available at [wesbryie.tech](wesbryie.tech)
 
-- 📫 How to reach me **dev@wesbryie.cf**
+- 📫 How to reach me **dev@wesbryie.cf OR wes@wesbryie.tech (They go into the same mailbox.)**
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleybryie&theme=monokai"/>
 
 <h3 align="left">Connect with me:</h3>
